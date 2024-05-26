@@ -12,5 +12,5 @@
     "lib": ["ES5", "ES6"],
     "outDir": "./dist"
   },
-  "include": ["./app/**/*"]
+  "include": ["./app/**/**/*"]
 }
